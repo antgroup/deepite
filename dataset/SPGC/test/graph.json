@@ -1,0 +1,135 @@
+{
+    "nodes": [
+        {
+            "entity": "feature0",
+            "metric": "0"
+        },
+        {
+            "entity": "feature1",
+            "metric": "1"
+        },
+        {
+            "entity": "feature2",
+            "metric": "2"
+        },
+        {
+            "entity": "feature3_1",
+            "metric": "3"
+        },
+        {
+            "entity": "feature3_2",
+            "metric": "4"
+        },
+        {
+            "entity": "feature3_3",
+            "metric": "5"
+        },
+        {
+            "entity": "feature3_4",
+            "metric": "6"
+        },
+        {
+            "entity": "feature11",
+            "metric": "7"
+        },
+        {
+            "entity": "feature12",
+            "metric": "8"
+        },
+        {
+            "entity": "feature13",
+            "metric": "9"
+        },
+        {
+            "entity": "feature14",
+            "metric": "10"
+        },
+        {
+            "entity": "feature15",
+            "metric": "11"
+        },
+        {
+            "entity": "feature16",
+            "metric": "12"
+        },
+        {
+            "entity": "feature17",
+            "metric": "13"
+        },
+        {
+            "entity": "feature18",
+            "metric": "14"
+        },
+        {
+            "entity": "feature19",
+            "metric": "15"
+        },
+        {
+            "entity": "feature60",
+            "metric": "16"
+        },
+        {
+            "entity": "feature20_distance",
+            "metric": "17"
+        },
+        {
+            "entity": "featureY_if",
+            "metric": "18"
+        },
+        {
+            "entity": "featureX_if",
+            "metric": "19"
+        },
+        {
+            "entity": "featureY_mean",
+            "metric": "20"
+        },
+        {
+            "entity": "featureX_mean",
+            "metric": "21"
+        },
+        {
+            "entity": "featureY_min",
+            "metric": "22"
+        },
+        {
+            "entity": "featureX_min",
+            "metric": "23"
+        }
+    ],
+    "edges": [
+        [1,0],
+        [2,0],
+        [8,0],
+        [9,0],
+        [11,0],
+        [7,1],
+        [7,8],
+        [12,1],
+        [12,2],
+        [14,1],
+        [14,2],
+        [15,2],
+        [19,1],
+        [19,2],
+        [21,1],
+        [21,2],
+        [23,1],
+        [23,2],
+        [15,14],
+        [16,14],
+        [17,13],
+        [18,13],
+        [20,13],
+        [22,13],
+        [18,19],
+        [18,21],
+        [18,23],
+        [20,19],
+        [20,21],
+        [20,23],
+        [22,19],
+        [22,21],
+        [22,23]
+    ]
+}
